@@ -3,6 +3,10 @@
 Script for sending a large number of mails asynchronously.
 In this script I use smtp server from gmail.
 
+PS I've written this script for practice myself that understand how to work asynchrony.
+
+PSS Maybe current script will be useful for my purposes.
+
 ## Run
 
 ```.bash
